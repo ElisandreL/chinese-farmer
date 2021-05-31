@@ -72,7 +72,7 @@
 <footer>Copyright Just Another Company 2017. 
 All right reserved. 
 Adapted from this article: 
-<a href="https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank" title="Alan Watts: The Story of the Chinese Farmer – Wellsbaum.blog">"The story of the chinese farmer by Alan Watts"</a>
+<a href="https://wellsbaum.blog/2018/01/27/alan-watts-the-story-of-the-chinese-farmer/" target="_blank" title="Alan Watts: The Story of the Chinese Farmer – Wellsbaum.blog" rel="noopener">"The story of the chinese farmer by Alan Watts"</a>
 </footer>
 </body>
 </html>
