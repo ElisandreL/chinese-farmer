@@ -1,14 +1,17 @@
 body {
-	background: radial-gradient(circle, rgba(249,208,255,100) 20%, rgba(176,242,255,100) 35%);
-	background-image: url(‪chinese_farmer/photobg.jpg);
+	/*background: radial-gradient(circle, rgba(249,208,255,100) 20%, rgba(176,242,255,100) 35%);*/
 	width: 90%;
 	margin: auto;
+	background-image: url(photobg.jpg);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 p {
 	font-family: serif;
 	letter-spacing: 2px;
 	font-size: 100%;
-	color: purple;
+	color: #c1ffff;
 }
 a:link {
 	color: green;
@@ -26,9 +29,103 @@ blockquote {
 	width: 45%;
 	margin: auto;
 	font-size: 160%;
+	color:  #a0a3ff;
 	background-color: lightgrey;
 	border: 3px solid firebrick;
 	padding: 30px;
 	padding-top: 80px;
 	padding-bottom: 80px;
+}
+.quote {
+	color:  #a0a3ff;
+}
+h1 {
+ color:  #ffc1da;
+}
+h2 {
+ color:  #ffc1da;
+}
+caption {
+ color:  #ffc1da;
+}
+h3 {
+ color:  #ffc1da;
+}
+li {
+ color:  #ffc1da;
+}
+figcaption {
+ color:  #ffc1da;
+}
+table {
+ color:  #ffc1da;
+}
+
+footer {
+ color:  #ffc1da;
+}
+q {
+	font-style: italic;
+}
+.villager::before {
+	color: blueviolet;
+	border-left: 3px solid blueviolet;
+}
+.farmer::before {
+	color: limegreen;
+	border-left: 3px solid limegreen;
+}
+header:first-child {
+	background-color: lightgoldenrodyellow;
+}
+.good {
+	text-transform: capitalize;
+	color: limegreen;
+}
+.bad {
+	text-transform: capitalize;
+	color: darkred;
+}
+tr:nth-child(even) {
+	background-color: lightgrey;
+}
+tr:nth-child(odd) {
+	background-color: white;
+}
+li:nth-child(1) {
+	margin: 0;
+	padding: 15px 0 15px 80px;
+	background-image: url(https://raw.githubusercontent.com/becodeorg/CRL-Keller-3.31/master/Assets/bien.png?token=AUGYG5OWPWW2DXNSIS3RKE3AX53FA);
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+	list-style-type: none;
+	text-indent: -35px;
+}
+li:nth-child(2) {
+	margin: 0;
+	padding: 15px 0 15px 80px;
+	background-image: url(https://raw.githubusercontent.com/becodeorg/CRL-Keller-3.31/master/Assets/mal.png?token=AUGYG5PLFMMUVJCHDSBMBALAX53J2);
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+	list-style-type: none;
+	text-indent: -35px;
+}
+li:nth-child(3) {
+	margin: 0;
+	padding: 15px 0 15px 80px;
+	background-image: url(https://raw.githubusercontent.com/becodeorg/CRL-Keller-3.31/master/Assets/chat.png?token=AUGYG5OWHU6JFKQZA2CJ5ADAX53LO);
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 40px;
+	list-style-type: none;
+	text-indent: -35px;
+}
+li:nth-child(4) {
+	margin-left: 30px;
+	text-indent: 13px;
+}
+.life {
+	font-weight: bold;
 }
