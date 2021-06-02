@@ -2,7 +2,7 @@ body {
 	/*background: radial-gradient(circle, rgba(249,208,255,100) 20%, rgba(176,242,255,100) 35%);*/
 	max-width: 90%;
 	margin: auto;
-	background-image: url(photobg.jpg);
+	background-image: url(baCO_10.jpg);
 	background-position: bottom right;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -11,7 +11,7 @@ p {
 	font-family: serif;
 	letter-spacing: 2px;
 	font-size: 100%;
-	color: #c1ffff;
+	color: #260640;
 }
 a:link {
 	color: green;
@@ -40,29 +40,29 @@ blockquote {
 	color:  #a0a3ff;
 }
 h1 {
- color:  #ffc1da;
+ color:  #260640;
 }
 h2 {
- color:  #ffc1da;
+ color:  #260640;
 }
 caption {
- color:  #ffc1da;
+ color:  #260640;
 }
 h3 {
- color:  #ffc1da;
+ color:  #260640;
 }
 li {
- color:  #ffc1da;
+ color:  #260640;
 }
 figcaption {
- color:  #ffc1da;
+ color:  #260640;
 }
 table {
- color:  #ffc1da;
+ color:  #260640;
 }
 
 footer {
- color:  #ffc1da;
+ color:  #260640;
 }
 q {
 	font-style: italic;
@@ -135,4 +135,15 @@ div {
 img {
 	float: left;
 	padding: 2%;
+}
+/*figure {
+	height: 10%;
+	width: 50%;
+}
+blockquote {
+	display: inline-block;
+	margin-left: 2%;
+}*/
+.old {
+	width: auto;
 }
