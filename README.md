@@ -9,3 +9,7 @@ Small project to take in hands basic css and semantic HTML.
 Learning : 
 * Basic CSS
 * Semantic HTML
+
+### Github page of the project : 
+
+[chinese farmer page](https://elisandrel.github.io/chinese-farmer/the_chinese_farmer_text.html) 
